@@ -1,1 +1,3 @@
 d.txt
+node_modules/*
+#  /* significa para todos os arquivos dentro da pasta#
